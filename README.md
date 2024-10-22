@@ -1,15 +1,5 @@
 # IN5060-assignment2
 
-## Comments/To Do
+Dataset used for the assignment:
 
-* Comment on the coverage on the OD driving being so good
-* Data points
-    * Currently taking all RSRP points, but we could only take the best one when there are multiple measurements at the same location and time ✅
-* Only Op2 has beamforming?
-* Trajectory slide
-    * Add latitude/longitude axes
-    * Add observation
-    * Map is not very clearly visible, maybe make it less dark? ✅
-    * Add information about the data that is shown, e.g. campaign number ✅
-* Visuals
-    * Add more references to our use case (for example Italian hand gestures) 🤌
+K. Kousias et al., "A Large-Scale Dataset of 4G, NB-IoT, and 5G Non-Standalone Network Measurements," in IEEE Communications Magazine, vol. 62, no. 5, pp. 44-49, May 2024, doi: 10.1109/MCOM.011.2200707
